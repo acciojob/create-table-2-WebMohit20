@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+table,tr,td{
+	border:1px solid black;
+	
+}
+td{
+	padding:2px;
+}
